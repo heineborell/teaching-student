@@ -1,9 +1,32 @@
-# General Physics BS103a 
+---
+title: Syllabus
+
+author:
+theme:
+  name: dark
+---
+
+# General Physics BS103a
+
+## Instructor
+
+- Deniz Olgu Devecioglu
+- email: dodeve@gmail.com
+- Room: L06
+
+## Course times
+
+- General Physics I - Section 2 Tuesday 09:00-10:30 / Wednesday 09:00-10:30
+
+- General Physics I - Section 3 Tuesday 10:30-12:00 / Wednesday 10:30-12:00
+
+<!--new_line-->
 
 ## Course Description
 
 This calculus based course provides students with the basic concepts of physics that enable them to understand describe and explain natural phenomena. Emphasis is laid on general principles and fundamental concepts in mechanics with applications of physics in various fields of engineering.
 
+<!-- end_slide -->
 
 ## Course Objectives
 
@@ -11,20 +34,21 @@ The goal of this course is to provide a calculus-based physics course to help st
 
 ## Required Text & References
 
-* Fundamentals of physics / Jearl Walker, David Halliday, Robert Resnick.
-* Hans C. Ohanian, John T. Markert - Physics for engineers and scientists-W.W. Norton & Co. (2007).
-* Physics for Scientists and Engineers with Modern Physics, 4th Edition, D. C. Giancoli.
+- Fundamentals of physics / Jearl Walker, David Halliday, Robert Resnick.
+- Hans C. Ohanian, John T. Markert - Physics for engineers and scientists-W.W. Norton & Co. (2007).
+- Physics for Scientists and Engineers with Modern Physics, 4th Edition, D. C. Giancoli.
 
 ## Grading
 
-* Midterm %30 
-* Midterm %30
-* Final %30
-* Homeworks %5   
-* Attendance %5  (Missing class: 1 points deducted, Max: 5 point deduction)
+- Midterm %30
+- Midterm %30
+- Final %30
+- Homeworks %5
+- Attendance %5 (Missing class: 1 points deducted, Max: 5 point deduction)
 
-## Class Schedule 
+<!--end_slide-->
 
+## Class Schedule
 
 1. Introduction, Measurement
 2. Motion in One Dimension
@@ -43,13 +67,8 @@ The goal of this course is to provide a calculus-based physics course to help st
 15. Oscillations
 16. Waves
 
+<!-- end_slide -->
 
 ## Academic Integrity
 
 You are expected to demonstrate academic honesty in all aspects of this course. Academic dishonesty includes, but is not limited to: violating clearly stated rules for taking an exam or completing an assignment; plagiarism (including material from sources without a citation and quotation marks around any borrowed words); claiming another’s work or a modification of another’s work as one’s own; buying or attempting to buy papers or projects for a course; fabricating information or citations.
-
-
-
-
-
-
